@@ -1,3 +1,5 @@
+Para fins estudantis.
+
 <h1 align="center"> Habits </h1>
 
 <p align="center">
