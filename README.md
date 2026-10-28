@@ -1,4 +1,4 @@
-# ✅ Habits
+# ✅ nlw-setup-habits
 
 **Um app para ajudar a rastrear os hábitos.** Projeto feito para fins estudantis durante o **NLW Setup**, um evento exclusivo e gratuito promovido pela Rocketseat para ensino de tecnologias WEB.
 
